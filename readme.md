@@ -1,5 +1,5 @@
 #NCUT LARA workshop
-##Homework2
+##HHomework (lara_0811_hw)
 ###主要檔案:
 app\Http\routes.php
 resources\views\home.blade.php
